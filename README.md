@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rohith D</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Rohith</h1>
+<h3 align="center">A passionate Backend developer from India</h3>
 
 - 🌱 I’m currently learning **Python**
 
