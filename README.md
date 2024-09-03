@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohith</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Node**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Node**
 
 - 📫 How to reach me **doradla.rohith@gmail.com**
 
