@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohith</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Front-end developer from India</h3>
 
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Node**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **doradla.rohith@gmail.com**
 
